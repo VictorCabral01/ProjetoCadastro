@@ -1,0 +1,36 @@
+.form{
+    border: 1px solid black;
+    height: 600px;
+    width: 600px;
+    margin-left: 900px;
+    margin-top: 300px;
+}
+
+div{
+margin-left: 150px;
+margin-top: 30px;
+
+
+}
+
+button{
+    margin-left: 150px;
+    margin-top: 50px;
+    border-radius: 28px;
+    border: 0;
+    width: 100px;
+    height: 26pt;
+    font-size: 15px;
+}
+
+label{
+    font-size: 25px;
+    display: block;
+    
+}
+
+input{
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+}
